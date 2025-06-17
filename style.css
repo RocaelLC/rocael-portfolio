@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #4c89f5;
+  color: white;
+  padding: 2rem;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  background-color: white;
+  color: #4c89f5;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 2rem;
+}
+
+.tech-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tech-list li {
+  margin: 0.5rem 0;
+}
+
+.projects a {
+  display: block;
+  margin: 1rem 0;
+  color: #4c89f5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #eee;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
